@@ -1,0 +1,12 @@
+c:\users\medo\onedrive\documents\visual studio 2015\Projects\encryption and decryption data\encryption and decryption data\bin\Debug\encryption and decryption data.exe.config
+c:\users\medo\onedrive\documents\visual studio 2015\Projects\encryption and decryption data\encryption and decryption data\bin\Debug\encryption and decryption data.exe
+c:\users\medo\onedrive\documents\visual studio 2015\Projects\encryption and decryption data\encryption and decryption data\bin\Debug\encryption and decryption data.pdb
+c:\users\medo\onedrive\documents\visual studio 2015\Projects\encryption and decryption data\encryption and decryption data\obj\Debug\encryption and decryption data.csprojResolveAssemblyReference.cache
+c:\users\medo\onedrive\documents\visual studio 2015\Projects\encryption and decryption data\encryption and decryption data\obj\Debug\encryption_and_decryption_data.Form1.resources
+c:\users\medo\onedrive\documents\visual studio 2015\Projects\encryption and decryption data\encryption and decryption data\obj\Debug\encryption_and_decryption_data.Properties.Resources.resources
+c:\users\medo\onedrive\documents\visual studio 2015\Projects\encryption and decryption data\encryption and decryption data\obj\Debug\encryption and decryption data.csproj.GenerateResource.Cache
+c:\users\medo\onedrive\documents\visual studio 2015\Projects\encryption and decryption data\encryption and decryption data\obj\Debug\encryption and decryption data.exe
+c:\users\medo\onedrive\documents\visual studio 2015\Projects\encryption and decryption data\encryption and decryption data\obj\Debug\encryption and decryption data.pdb
+C:\Users\Kimo Store\Desktop\encryption and decryption data\encryption and decryption data\bin\Debug\encryption and decryption data.exe.config
+C:\Users\Kimo Store\Desktop\encryption and decryption data\encryption and decryption data\obj\Debug\encryption and decryption data.exe
+C:\Users\Kimo Store\Desktop\encryption and decryption data\encryption and decryption data\obj\Debug\encryption and decryption data.pdb
